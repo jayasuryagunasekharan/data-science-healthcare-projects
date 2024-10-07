@@ -2,7 +2,7 @@
 
 This repository contains a collection of machine learning and deep learning projects focused on healthcare applications. Each project addresses critical challenges in medical diagnosis and prediction, demonstrating the potential of AI to improve patient outcomes.
 
-## Projects Overview
+## Projects
 
 ### 1. Breast Cancer Classification
 - **Objective**: Develop a model to classify breast cancer tumors as malignant or benign.
